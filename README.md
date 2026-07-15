@@ -1,4 +1,4 @@
-# 2026 Paper OPPh3py – LaTeX Source Files: [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.langmuir.5c01320-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1021/acs.langmuir.5c01320)
+# 2026 Paper OPPh3py – LaTeX Source Files: [![DOI](https://img.shields.io/badge/DOI-10.1098%2Frsos.260458-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1098/rsos.260458)
 
 
 ## Repository Structure
@@ -57,7 +57,7 @@ The raw data associated with this study are publicly available on **Zenodo**: **
 This repository accompanies the following publication:
 
 Ubeiden C. Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and Alberto Sánchez López. Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor-π-acceptor system of OPPh₃py *Roy. Soc. Open Sci.* **2026** *41* (xx), xxx-xxx
-DOI: [10.1021/acs.langmuir.5c01320](https://doi.org/10.1021/acs.langmuir.5c01320)
+DOI: [10.1021/acs.langmuir.5c01320](https://doi.org/10.1098/rsos.260458)
 
 ---
 

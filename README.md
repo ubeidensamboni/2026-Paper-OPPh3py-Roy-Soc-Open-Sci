@@ -56,7 +56,7 @@ The raw data associated with this study are publicly available on **Zenodo**: **
 
 This repository accompanies the following publication:
 
-Ubeiden C. Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and Alberto Sánchez López. Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor-π-acceptor system of OPPh₃py *Roy. Soc. Open Sci.* **2026** *41* (xx), xxx-xxx
+Ubeiden C. Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and Alberto Sánchez López. Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor-π-acceptor system of OPPh₃py. *Roy. Soc. Open Sci.* **2026** *41* (xx), xxx-xxx
 DOI: [10.1098/rsos.260458](https://doi.org/10.1098/rsos.260458)
 
 ---

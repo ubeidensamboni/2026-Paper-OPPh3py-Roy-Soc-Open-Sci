@@ -16,9 +16,6 @@ This repository contains the complete submission history of the manuscript, incl
 │   │   # Original manuscript submitted for peer review
 │   ├── 3_Supporting_Information.pdf
 │   │   # Supporting Information accompanying the initial submission
-│   └── RAW_Data_Zenodo.txt
-│       # Raw data are publicly available on Zenodo:
-│       # https://doi.org/10.5281/zenodo.18865772
 │
 ├── 2_Reviewer_Comments_and_Revisions/
 │   ├── 3_Manuscript_Clean.pdf

@@ -28,19 +28,6 @@ This repository contains the complete LaTeX source code for the published manusc
 │   ├── opph3py.zip                     # Main Latex project for ACCEPTED version
 ```
 
-### Description
-
-| File/Folder | Description |
-|--------------|-------------|
-| `integrins/` | Complete LaTeX source of the manuscript, including figures and bibliography. |
-| `integrins/integrins.tex` | Main LaTeX source file. |
-| `integrins/referen.bib` | BibTeX bibliography database. |
-| `1_Responses Reviewers.pdf` | Point-by-point responses to the reviewers. |
-| `2_Manuscript Integrins.pdf` | Final clean version of the submitted manuscript. |
-| `3_Manuscript Integrins Reviewers.pdf` | Annotated manuscript showing revisions made during peer review. |
-| `4_Supporting Information.pdf` | Supporting Information accompanying the published article. |
-
-
 ## Publication
 
 This repository accompanies the following publication:

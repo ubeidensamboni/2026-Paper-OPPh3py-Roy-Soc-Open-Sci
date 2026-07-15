@@ -27,7 +27,7 @@ This repository contains the complete submission history of the manuscript, incl
 │   └── NOTE.md
 │       # Reviewer reports, editorial decision letters, and author responses
 │       # are not included because the journal's policy does not permit
-│       # publication of these documents for rejected submissions.
+│       # publication of these documents.
 │
 ├── 3_Final_Accepted_Version/
 │   ├── 1_Cover_Letter.pdf

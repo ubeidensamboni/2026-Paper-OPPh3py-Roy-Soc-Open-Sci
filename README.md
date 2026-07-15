@@ -1,32 +1,59 @@
 # 2026 Paper OPPh3py – LaTeX Source Files: [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facs.langmuir.5c01320-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1021/acs.langmuir.5c01320)
 
 
-This repository contains the complete LaTeX source code for the published manuscript, including all figures, bibliography, and supplementary files used to compile the paper.
-
 ## Repository Structure
+
+This repository contains the complete submission history of the manuscript, including the original submission, revision materials, and the final accepted version.
 
 ```text
 .
 ├── README.md
 │
-├── 1_Submition/
-│   ├── 1_Cover_Letter.pdf          # Cover letter for editor
-│   ├── 2_manuscript opph3py.pdf            # Manuscript submitted for reviever
-│   ├── 3_Supporting Information.pdf                  # Supporting Information
-│   ├── Online Repository for RAW data can be found in Zenodo: [![DOI](https://zenodo.org/badge/1172709056.svg)](https://doi.org/10.5281/zenodo.18865772)
+├── 1_Submission/
+│   ├── 1_Cover_Letter.pdf
+│   │   # Cover letter submitted to the editor
+│   ├── 2_Manuscript.pdf
+│   │   # Original manuscript submitted for peer review
+│   ├── 3_Supporting_Information.pdf
+│   │   # Supporting Information accompanying the initial submission
+│   └── RAW_Data_Zenodo.txt
+│       # Raw data are publicly available on Zenodo:
+│       # https://doi.org/10.5281/zenodo.18865772
 │
-├── 2_Reviewer_Comments_and_Revisions  # Publish reviewer reports, decision letters and author responses for rejected papers are not published due to Jounal policy.
-│   ├── 3_manuscript opph3py CLEAN.pdf  # Manuscript submitted for reviever after REVISION
-│   ├── 4_opph3py tracked changes.pdf   # Tracked changes after first submition
-│   ├── 5_Supporting Information.pdf    # Supporting Information
+├── 2_Reviewer_Comments_and_Revisions/
+│   ├── 3_Manuscript_Clean.pdf
+│   │   # Clean revised manuscript submitted after peer review
+│   ├── 4_Tracked_Changes.pdf
+│   │   # Manuscript with tracked changes following the first revision
+│   ├── 5_Supporting_Information.pdf
+│   │   # Updated Supporting Information
+│   └── NOTE.md
+│       # Reviewer reports, editorial decision letters, and author responses
+│       # are not included because the journal's policy does not permit
+│       # publication of these documents for rejected submissions.
 │
-├── 3_Final_Accepted_Version
-│   ├── 2_Cover Letter.pdf      # Cover letter for editor
-│   ├── 3_manuscript opph3py CLEAN.pdf    # Manuscript submitted final version ACCEPTED
-│   ├── 4_opphh3py_tracked_changes.pdf     # Tracked changes after second submition
-│   ├── 5_Supporting Information.pdf      # Supporting Information
-│   ├── opph3py.zip                     # Main Latex project for ACCEPTED version
+├── 3_Final_Accepted_Version/
+│   ├── 1_Cover_Letter.pdf
+│   │   # Final cover letter submitted to the editor
+│   ├── 2_Manuscript_Accepted.pdf
+│   │   # Final accepted manuscript
+│   ├── 3_Tracked_Changes.pdf
+│   │   # Tracked changes submitted with the final revision
+│   ├── 4_Supporting_Information.pdf
+│   │   # Final Supporting Information
+│   └── opph3py.zip
+│       # Complete LaTeX source files for the accepted manuscript
 ```
+
+## Repository Contents
+
+- **1_Submission** — Materials included in the initial manuscript submission.
+- **2_Reviewer_Comments_and_Revisions** — Revised manuscript and associated files submitted during the peer-review process. Reviewer reports and editorial correspondence are omitted in accordance with the journal's publication policy.
+- **3_Final_Accepted_Version** — The final accepted manuscript, supporting files, and the complete LaTeX source project.
+
+## Raw Data
+
+The raw data associated with this study are publicly available on **Zenodo**: **DOI:** https://doi.org/10.5281/zenodo.18865772
 
 ## Publication
 

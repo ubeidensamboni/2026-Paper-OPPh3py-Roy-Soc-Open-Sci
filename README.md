@@ -1,4 +1,4 @@
-# 2026 Paper OPPh₃py – LaTeX Source Files: [![DOI](https://img.shields.io/badge/DOI-10.1098%2Frsos.260458-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1098/rsos.260458)
+# 2026 Paper OPPh₃py – LaTeX Source Files: [![DOI](https://img.shields.io/badge/-10.1098%2Frsos.260458-blue?style=for-the-badge&logo=doi)](https://doi.org/10.1098/rsos.260458)
 
 
 ## Repository Structure
